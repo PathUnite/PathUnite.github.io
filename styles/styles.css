@@ -9,7 +9,7 @@ body {
 
 #center-logo{
     animation: fade-in 2s;
-    max-width: 80vw;
+    max-width: 360px;
     max-height: 80vh;
 }
 
